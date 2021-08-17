@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoFilmsDemov2.2</string>
+    <string-array name="options">
+        <item>Record Video</item>
+        <item>Send from Gallery</item>
+    </string-array>
+</resources>
